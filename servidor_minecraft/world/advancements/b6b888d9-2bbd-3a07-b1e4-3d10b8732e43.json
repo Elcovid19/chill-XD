@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_flower": "2025-01-21 16:38:59 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2025-01-20 19:01:26 +0000"
@@ -50,6 +56,12 @@
   "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
       "has_chest": "2025-01-20 20:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-21 16:39:18 +0000"
     },
     "done": true
   },
@@ -732,6 +744,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-20 18:57:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-21 16:42:59 +0000"
     },
     "done": true
   },
@@ -2997,6 +3015,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-20 20:10:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-21 16:42:59 +0000"
     },
     "done": true
   },
