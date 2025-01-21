@@ -280,3 +280,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [21Jan2025 18:45:36.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
 [21Jan2025 18:49:26.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 moved wrongly!
 [21Jan2025 18:50:10.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36563, l='ServerLevel[world]', x=368.50, y=71.00, z=-109.50]
+[21Jan2025 18:55:02.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 lost connection: Timed out
+[21Jan2025 18:55:02.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 left the game
+[21Jan2025 18:55:02.305] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

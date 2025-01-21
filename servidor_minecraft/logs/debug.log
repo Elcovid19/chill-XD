@@ -3430,3 +3430,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [21Jan2025 18:53:26.002] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (634 | 19 | -180)
 [21Jan2025 18:53:26.002] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (634 | 19 | -180)
 [21Jan2025 18:53:26.003] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (634 | 19 | -180)
+[21Jan2025 18:55:02.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 lost connection: Timed out
+[21Jan2025 18:55:02.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 left the game
+[21Jan2025 18:55:02.305] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jan2025 18:58:20.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 18:58:20.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 19:03:20.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 19:03:20.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
