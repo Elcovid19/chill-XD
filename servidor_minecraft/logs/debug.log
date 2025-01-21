@@ -2321,3 +2321,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [21Jan2025 17:21:18.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tduerme oe
 [21Jan2025 17:21:24.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> wa
 [21Jan2025 17:22:33.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has made the advancement [Ice Bucket Challenge]
+[21Jan2025 17:23:20.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 17:23:20.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 17:28:20.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 17:28:20.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 17:31:04.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has made the advancement [Fishy Business]
+[21Jan2025 17:33:20.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 17:33:20.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
