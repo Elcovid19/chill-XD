@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-21 18:45:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-01-21 18:24:16 +0000"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-21 18:36:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 18:12:42 +0000"
@@ -200,6 +212,12 @@
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-21 18:45:26 +0000"
     },
     "done": true
   },
@@ -227,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-21 18:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-21 18:06:53 +0000"
@@ -236,6 +260,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-21 18:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-21 18:52:35 +0000"
     },
     "done": true
   },
@@ -253,6 +283,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-21 18:39:03 +0000",
       "cooked_mutton": "2025-01-21 18:24:45 +0000",
       "rotten_flesh": "2025-01-21 18:00:33 +0000",
       "cooked_chicken": "2025-01-21 18:20:19 +0000"
@@ -313,6 +344,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-21 18:36:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-01-21 18:02:02 +0000"
@@ -325,6 +362,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-21 18:36:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-01-21 18:12:42 +0000"
@@ -334,6 +377,12 @@
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2025-01-21 18:02:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-21 18:36:03 +0000"
     },
     "done": true
   },
@@ -358,6 +407,18 @@
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2025-01-21 18:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-21 18:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-21 18:45:21 +0000"
     },
     "done": true
   },
@@ -459,7 +520,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "jade_cliffs": "2025-01-21 18:37:44 +0000",
       "coniferous_forest": "2025-01-21 18:01:11 +0000",
+      "seasonal_forest": "2025-01-21 18:38:39 +0000",
+      "pasture": "2025-01-21 18:37:51 +0000",
       "lavender_field": "2025-01-21 18:29:02 +0000",
       "fir_clearing": "2025-01-21 18:27:36 +0000",
       "pumpkin_patch": "2025-01-21 18:24:13 +0000",
@@ -521,6 +585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-21 18:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-21 18:09:27 +0000"
@@ -548,6 +618,12 @@
   "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-01-21 18:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-21 18:34:52 +0000"
     },
     "done": true
   },
@@ -617,6 +693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-21 18:45:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 18:19:23 +0000"
@@ -640,7 +722,8 @@
       "minecraft:skeleton": "2025-01-21 18:32:06 +0000",
       "minecraft:spider": "2025-01-21 18:32:48 +0000",
       "minecraft:creeper": "2025-01-21 18:06:22 +0000",
-      "minecraft:zombie": "2025-01-21 18:00:29 +0000"
+      "minecraft:zombie": "2025-01-21 18:00:29 +0000",
+      "minecraft:drowned": "2025-01-21 18:50:23 +0000"
     },
     "done": false
   },
@@ -659,6 +742,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-01-21 18:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-21 18:45:26 +0000"
     },
     "done": true
   },
@@ -878,6 +967,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-21 18:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-01-21 18:13:19 +0000"
@@ -887,6 +982,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-21 18:51:38 +0000"
     },
     "done": true
   },
@@ -923,6 +1024,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-21 18:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-21 18:36:25 +0000"
     },
     "done": true
   },
@@ -986,6 +1093,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-21 18:33:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-01-21 18:29:36 +0000"
@@ -1028,6 +1141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-21 18:33:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "coniferous_forest": "2025-01-21 18:01:11 +0000"
@@ -1037,6 +1156,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-21 18:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-21 18:52:35 +0000"
     },
     "done": true
   },
@@ -1064,6 +1189,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-21 18:45:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 18:12:42 +0000"
@@ -1082,9 +1213,21 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-21 18:34:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-21 18:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-21 18:52:35 +0000"
     },
     "done": true
   },
@@ -1103,6 +1246,18 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-01-21 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-21 18:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-21 18:45:21 +0000"
     },
     "done": true
   },
@@ -1136,11 +1291,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-21 18:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-21 18:09:09 +0000",
       "minecraft:river": "2025-01-21 18:11:04 +0000",
+      "minecraft:stony_shore": "2025-01-21 18:39:57 +0000",
       "minecraft:jagged_peaks": "2025-01-21 18:20:04 +0000",
+      "minecraft:cold_ocean": "2025-01-21 18:48:24 +0000",
+      "minecraft:meadow": "2025-01-21 18:51:22 +0000",
       "minecraft:plains": "2025-01-21 17:57:50 +0000"
     },
     "done": false
@@ -1241,6 +1405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-21 18:45:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
@@ -1274,6 +1444,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-01-21 18:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-21 18:36:03 +0000"
     },
     "done": true
   },
@@ -1340,6 +1516,12 @@
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2025-01-21 18:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-21 18:45:26 +0000"
     },
     "done": true
   },

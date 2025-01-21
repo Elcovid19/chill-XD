@@ -270,3 +270,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [21Jan2025 18:30:19.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no te lo puedes quitar
 [21Jan2025 18:30:26.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> pota mare
 [21Jan2025 18:30:32.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDD
+[21Jan2025 18:34:52.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Ice Bucket Challenge]
+[21Jan2025 18:37:25.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Disconnected
+[21Jan2025 18:37:25.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[21Jan2025 18:38:04.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=260, y=85, z=-486} BlockPos{x=260, y=84, z=-486}
+[21Jan2025 18:38:36.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has made the advancement [Cobweb Entanglement]
+[21Jan2025 18:45:24.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> mimir time
+[21Jan2025 18:45:36.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[21Jan2025 18:45:36.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
+[21Jan2025 18:49:26.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 moved wrongly!
+[21Jan2025 18:50:10.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36563, l='ServerLevel[world]', x=368.50, y=71.00, z=-109.50]
