@@ -1153,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-22 18:50:28 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_slab": {
     "criteria": {
       "has_walnut_planks": "2025-01-22 02:13:36 +0000"
