@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-22 21:00:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2025-01-22 19:07:01 +0000"
@@ -269,15 +275,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-22 21:00:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_grill": {
     "criteria": {
       "has_iron": "2025-01-22 19:28:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-22 20:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-22 19:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-22 20:48:57 +0000"
     },
     "done": true
   },
@@ -363,6 +387,12 @@
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-01-22 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-22 21:00:37 +0000"
     },
     "done": true
   },
@@ -756,6 +786,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-22 21:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-22 20:56:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2025-01-22 19:07:01 +0000"
@@ -948,6 +990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-22 21:00:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2025-01-22 19:28:21 +0000"
@@ -963,6 +1011,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-01-22 19:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-22 21:00:37 +0000"
     },
     "done": true
   },
@@ -1023,6 +1077,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-01-22 20:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-01-22 20:56:31 +0000"
     },
     "done": true
   },
