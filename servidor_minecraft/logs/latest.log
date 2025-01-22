@@ -1,52 +1,94 @@
-[21Jan2025 16:12:16.931] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[21Jan2025 16:12:16.936] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
-[21Jan2025 16:12:17.155] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/chill-XD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[21Jan2025 16:12:17.526] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill-XD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[21Jan2025 16:12:17.527] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill-XD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[21Jan2025 16:12:17.529] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill-XD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[21Jan2025 16:12:17.530] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill-XD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[21Jan2025 16:12:17.618] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[21Jan2025 16:12:19.594] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[21Jan2025 16:12:19.643] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[21Jan2025 16:12:19.692] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[21Jan2025 16:12:26.888] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[21Jan2025 16:12:27.304] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[21Jan2025 16:12:27.304] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[21Jan2025 16:12:30.776] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
-[21Jan2025 16:12:31.106] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[21Jan2025 16:12:31.259] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[21Jan2025 16:12:31.259] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[21Jan2025 16:12:31.260] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
-[21Jan2025 16:12:31.260] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
-[21Jan2025 16:12:31.261] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[21Jan2025 16:12:31.262] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[21Jan2025 16:12:31.302] [main/INFO] [journeymap/]: Initializing Packet Registries
-[21Jan2025 16:12:31.369] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[21Jan2025 16:12:31.456] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[21Jan2025 16:12:31.463] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
-[21Jan2025 16:12:31.495] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[21Jan2025 16:12:31.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[21Jan2025 16:12:32.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
-[21Jan2025 16:12:32.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[21Jan2025 16:12:32.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
-[21Jan2025 16:12:32.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[21Jan2025 16:12:33.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
-[21Jan2025 16:12:33.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[21Jan2025 16:12:33.742] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.3 Target: 0.4.3
-[21Jan2025 16:12:33.742] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21Jan2025 16:12:33.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[21Jan2025 16:12:33.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[21Jan2025 16:12:34.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.18.2-1.0.1 Target: null
-[21Jan2025 16:12:36.667] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21Jan2025 16:12:38.906] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/chill-XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2365!/assets/.mcassetsroot' uses unexpected schema
-[21Jan2025 16:12:38.907] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/chill-XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2365!/data/.mcassetsroot' uses unexpected schema
-[21Jan2025 16:12:44.288] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21Jan2025 16:12:44.289] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21Jan2025 16:12:44.292] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21Jan2025 16:12:44.302] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21Jan2025 16:12:44.303] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21Jan2025 16:12:44.306] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21Jan2025 16:12:54.340] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe brewinandchewin:kombucha
+[22Jan2025 01:18:34.908] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[22Jan2025 01:18:34.913] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
+[22Jan2025 01:18:35.166] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/chill-XD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[22Jan2025 01:18:35.548] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill-XD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[22Jan2025 01:18:35.550] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill-XD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[22Jan2025 01:18:35.551] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill-XD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[22Jan2025 01:18:35.552] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill-XD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[22Jan2025 01:18:35.647] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[22Jan2025 01:18:38.034] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Jan2025 01:18:38.094] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Jan2025 01:18:38.145] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jan2025 01:18:46.052] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[22Jan2025 01:18:46.385] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[22Jan2025 01:18:46.388] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[22Jan2025 01:18:50.141] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[22Jan2025 01:18:50.507] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[22Jan2025 01:18:50.756] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22Jan2025 01:18:50.757] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[22Jan2025 01:18:50.757] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
+[22Jan2025 01:18:50.757] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
+[22Jan2025 01:18:50.765] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22Jan2025 01:18:50.773] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22Jan2025 01:18:50.826] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22Jan2025 01:18:50.900] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[22Jan2025 01:18:51.017] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[22Jan2025 01:18:51.037] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[22Jan2025 01:18:51.078] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[22Jan2025 01:18:51.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[22Jan2025 01:18:51.815] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2321!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.21.jar%2366!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.21.jar%2366!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2321!/:?]
+	... 6 more
+[22Jan2025 01:18:51.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22Jan2025 01:18:51.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[22Jan2025 01:18:51.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[22Jan2025 01:18:51.964] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2321!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.21.jar%2366!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.21.jar%2366!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2321!/:?]
+	... 6 more
+[22Jan2025 01:18:51.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[22Jan2025 01:18:51.997] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2321!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.21.jar%2366!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.21.jar%2366!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2321!/:?]
+	... 6 more
+[22Jan2025 01:18:52.000] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Jan2025 01:18:52.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[22Jan2025 01:18:52.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[22Jan2025 01:18:53.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.18.2-1.0.1 Target: null
+[22Jan2025 01:18:55.407] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Jan2025 01:18:58.315] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/chill-XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2365!/assets/.mcassetsroot' uses unexpected schema
+[22Jan2025 01:18:58.315] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/chill-XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2365!/data/.mcassetsroot' uses unexpected schema
+[22Jan2025 01:19:03.945] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Jan2025 01:19:03.947] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Jan2025 01:19:03.951] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22Jan2025 01:19:03.954] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22Jan2025 01:19:03.956] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Jan2025 01:19:03.963] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22Jan2025 01:19:14.317] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe brewinandchewin:kombucha
 com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2365!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -98,188 +140,74 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[21Jan2025 16:12:54.470] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[21Jan2025 16:12:56.932] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2232 advancements
-[21Jan2025 16:12:56.935] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
-[21Jan2025 16:12:58.695] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
-[21Jan2025 16:13:00.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[21Jan2025 16:13:00.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21Jan2025 16:13:00.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21Jan2025 16:13:00.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21Jan2025 16:13:01.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21Jan2025 16:13:01.236] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[21Jan2025 16:13:01.506] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21Jan2025 16:13:01.506] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[21Jan2025 16:13:01.507] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21Jan2025 16:13:01.507] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[21Jan2025 16:13:01.551] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[21Jan2025 16:13:01.560] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[21Jan2025 16:13:02.218] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[21Jan2025 16:13:02.220] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[21Jan2025 16:13:02.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21Jan2025 16:13:02.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21Jan2025 16:13:04.912] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:04.947] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:04.955] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:04.985] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:04.998] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:07.834] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:08.548] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:08.551] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:08.554] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:08.556] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:08.564] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:08.568] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:08.852] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:09.351] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:09.858] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:10.350] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:10.851] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:11.356] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:11.859] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:12.362] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 16:13:12.850] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[21Jan2025 16:13:13.351] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
-[21Jan2025 16:13:13.852] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[21Jan2025 16:13:14.357] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[21Jan2025 16:13:14.849] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
-[21Jan2025 16:13:15.892] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13044 ms
-[21Jan2025 16:13:15.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.359s)! For help, type "help"
-[21Jan2025 16:13:15.929] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21Jan2025 16:18:33.128] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b2eae7d
-[21Jan2025 16:18:33.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:38731] logged in with entity id 119 at (-3.300000011920929, 57.5625, -525.6999999880791)
-[21Jan2025 16:18:33.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
-[21Jan2025 16:18:33.313] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
-[21Jan2025 16:18:37.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4160ms or 83 ticks behind
-[21Jan2025 16:23:01.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> j
-[21Jan2025 16:25:24.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 has made the advancement [Cobweb Entanglement]
-[21Jan2025 16:55:56.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> GoldenLeon98
-[21Jan2025 17:01:10.562] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3da80fc2
-[21Jan2025 17:01:10.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:53123] logged in with entity id 6170 at (-1.2314721869213487, 57.0, -522.3724379239895)
-[21Jan2025 17:01:10.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
-[21Jan2025 17:01:10.591] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
-[21Jan2025 17:01:31.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> muchaaacho
-[21Jan2025 17:01:39.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> ese sebas como me fedea
-[21Jan2025 17:01:44.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> xdxdxdxdxdxdxd
-[21Jan2025 17:01:50.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: * ItsSebas muere de risa
-[21Jan2025 17:04:00.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Chicken
-[21Jan2025 17:04:03.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDD
-[21Jan2025 17:04:07.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xDDDDDDDDDDDD
-[21Jan2025 17:04:14.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> tasumare
-[21Jan2025 17:04:16.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> :´v
-[21Jan2025 17:04:28.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> pollo carry
-[21Jan2025 17:07:19.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> duerme o xd
-[21Jan2025 17:07:29.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> yaaa
-[21Jan2025 17:07:34.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[21Jan2025 17:09:56.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 has made the advancement [Tactical Fishing]
-[21Jan2025 17:13:23.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=57, z=-619} BlockPos{x=386, y=58, z=-619}
-[21Jan2025 17:13:43.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=384, y=54, z=-616} BlockPos{x=384, y=55, z=-616}
-[21Jan2025 17:21:18.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tduerme oe
-[21Jan2025 17:21:24.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> wa
-[21Jan2025 17:22:33.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has made the advancement [Ice Bucket Challenge]
-[21Jan2025 17:31:04.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has made the advancement [Fishy Business]
-[21Jan2025 17:37:09.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
-[21Jan2025 17:37:09.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
-[21Jan2025 17:57:50.347] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@134568a6
-[21Jan2025 17:57:50.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLeonel51[/127.199.42.72:32795] logged in with entity id 18074 at (6.5, 80.0, -9.5)
-[21Jan2025 17:57:50.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 joined the game
-[21Jan2025 17:57:50.386] [Server thread/INFO] [Waila/]: Syncing config to TheLeonel51 (aaa7ac2d-f5a0-369c-8cc9-555e43871593)
-[21Jan2025 17:58:10.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> Hi leon
-[21Jan2025 17:58:30.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> hao
-[21Jan2025 17:58:31.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=79, z=10}
-[21Jan2025 17:58:31.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=79, z=10}
-[21Jan2025 17:58:31.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=79, z=10}
-[21Jan2025 17:58:31.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=79, z=10}
-[21Jan2025 17:58:31.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=79, z=10}
-[21Jan2025 17:58:38.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> creo que me va lag
-[21Jan2025 17:58:42.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=87, z=-3}
-[21Jan2025 17:58:54.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> no me deja romper las cosas
-[21Jan2025 17:59:09.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> no es creativo xD
-[21Jan2025 17:59:27.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> me refiero no puedo romper bloques
-[21Jan2025 17:59:28.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> xd
-[21Jan2025 17:59:35.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> aaa
-[21Jan2025 17:59:36.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[21Jan2025 18:00:29.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Monster Hunter]
-[21Jan2025 18:06:12.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=384, y=64, z=-638} BlockPos{x=381, y=66, z=-639}
-[21Jan2025 18:07:27.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> estoy en problemas tengo 1 y medio
-[21Jan2025 18:07:30.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> ;-;
-[21Jan2025 18:07:47.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> salte y vuelves a entrar
-[21Jan2025 18:07:54.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> ok
-[21Jan2025 18:07:55.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> y vienes donde estoy
-[21Jan2025 18:07:55.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 lost connection: Disconnected
-[21Jan2025 18:07:55.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 left the game
-[21Jan2025 18:08:42.849] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b7e2619
-[21Jan2025 18:08:42.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLeonel51[/127.199.42.72:55223] logged in with entity id 20520 at (-299.69685504620054, 95.0, -60.110714286412254)
-[21Jan2025 18:08:42.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 joined the game
-[21Jan2025 18:08:42.869] [Server thread/INFO] [Waila/]: Syncing config to TheLeonel51 (aaa7ac2d-f5a0-369c-8cc9-555e43871593)
-[21Jan2025 18:08:50.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> ven donde estoy
-[21Jan2025 18:08:55.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> o por donde andas xd
-[21Jan2025 18:08:57.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> apareci en la cueva xD
-[21Jan2025 18:09:02.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[21Jan2025 18:09:12.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> por el spawm
-[21Jan2025 18:09:18.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> x: 390 z: -656
-[21Jan2025 18:09:27.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Stone Age]
-[21Jan2025 18:12:44.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Sheep
-[21Jan2025 18:12:47.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> xD
-[21Jan2025 18:12:51.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> xd
-[21Jan2025 18:12:51.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xDDDDDDDDDDDDDDD
-[21Jan2025 18:13:19.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Chicken
-[21Jan2025 18:13:24.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> :V
-[21Jan2025 18:13:24.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> oe xd
-[21Jan2025 18:13:46.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 has made the advancement [A Seedy Place]
-[21Jan2025 18:15:34.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.4794819761431768
-[21Jan2025 18:15:34.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.476204610762494
-[21Jan2025 18:15:34.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.476204610762494
-[21Jan2025 18:15:34.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.38751461076248006
-[21Jan2025 18:15:49.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Best Friends Forever]
-[21Jan2025 18:15:54.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was impaled by Drowned
-[21Jan2025 18:17:32.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Getting an Upgrade]
-[21Jan2025 18:19:25.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Sweet Dreams]
-[21Jan2025 18:20:26.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Acquire Hardware]
-[21Jan2025 18:20:58.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Isn't It Iron Pick]
-[21Jan2025 18:21:32.657] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5151b4fe
-[21Jan2025 18:21:32.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:39753] logged in with entity id 25907 at (-5.940071925755132, 58.0, -529.5865061686019)
-[21Jan2025 18:21:32.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
-[21Jan2025 18:21:32.671] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
-[21Jan2025 18:21:45.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya llegó el ded
-[21Jan2025 18:21:51.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> ban
-[21Jan2025 18:21:59.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> MUERE POR UN POLLO
-[21Jan2025 18:22:02.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> xD
-[21Jan2025 18:22:26.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: * ItsSebas murió de tristeza.
-[21Jan2025 18:27:02.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> c creeper
-[21Jan2025 18:27:36.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Pig
-[21Jan2025 18:27:39.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> xD
-[21Jan2025 18:27:40.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDDD
-[21Jan2025 18:27:42.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[21Jan2025 18:27:43.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> tmr
-[21Jan2025 18:27:53.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> sebas espada de empuje de ayuda
-[21Jan2025 18:27:59.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> debes cambiarlo por algo mejor
-[21Jan2025 18:28:01.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> deja p
-[21Jan2025 18:28:03.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> :c
-[21Jan2025 18:28:09.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> solo estoy viendo xd
-[21Jan2025 18:28:18.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> me costó dos horas obtenerlo
-[21Jan2025 18:28:20.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> :´v
-[21Jan2025 18:28:46.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> mas recomendable usa hacha en todo caso
-[21Jan2025 18:28:54.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ia
-[21Jan2025 18:29:06.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> amo el color morado
-[21Jan2025 18:29:08.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> aaaa
-[21Jan2025 18:29:33.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=328, y=79, z=-389} BlockPos{x=329, y=78, z=-389}
-[21Jan2025 18:29:36.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Hunt and Gather]
-[21Jan2025 18:30:09.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> que es maldicion de ligamiento
-[21Jan2025 18:30:10.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> xd
-[21Jan2025 18:30:19.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no te lo puedes quitar
-[21Jan2025 18:30:26.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> pota mare
-[21Jan2025 18:30:32.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDD
-[21Jan2025 18:34:52.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Ice Bucket Challenge]
-[21Jan2025 18:37:25.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Disconnected
-[21Jan2025 18:37:25.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
-[21Jan2025 18:38:04.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=260, y=85, z=-486} BlockPos{x=260, y=84, z=-486}
-[21Jan2025 18:38:36.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has made the advancement [Cobweb Entanglement]
-[21Jan2025 18:45:24.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> mimir time
-[21Jan2025 18:45:36.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
-[21Jan2025 18:45:36.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
-[21Jan2025 18:49:26.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 moved wrongly!
-[21Jan2025 18:50:10.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36563, l='ServerLevel[world]', x=368.50, y=71.00, z=-109.50]
-[21Jan2025 18:55:02.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 lost connection: Timed out
-[21Jan2025 18:55:02.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 left the game
-[21Jan2025 18:55:02.305] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jan2025 01:19:14.429] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[22Jan2025 01:19:16.286] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2232 advancements
+[22Jan2025 01:19:16.288] [Worker-Main-5/INFO] [Dungeon Crawl/]: Loading data...
+[22Jan2025 01:19:18.120] [Worker-Main-5/INFO] [Dungeon Crawl/]: Done.
+[22Jan2025 01:19:20.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[22Jan2025 01:19:20.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Jan2025 01:19:20.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Jan2025 01:19:20.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Jan2025 01:19:20.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Jan2025 01:19:20.465] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Jan2025 01:19:20.744] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Jan2025 01:19:20.744] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Jan2025 01:19:20.745] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Jan2025 01:19:20.745] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Jan2025 01:19:20.878] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Jan2025 01:19:20.881] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Jan2025 01:19:20.884] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Jan2025 01:19:21.402] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22Jan2025 01:19:21.405] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22Jan2025 01:19:21.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Jan2025 01:19:21.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Jan2025 01:19:24.166] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:24.191] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:24.210] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:24.227] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:24.241] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:24.258] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:27.303] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:27.319] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:27.336] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:27.341] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:27.346] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:27.350] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:27.708] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:28.266] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:28.752] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:29.205] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:29.887] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:30.205] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:30.759] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 01:19:31.206] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[22Jan2025 01:19:31.707] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[22Jan2025 01:19:32.207] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[22Jan2025 01:19:32.707] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[22Jan2025 01:19:33.234] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[22Jan2025 01:19:33.713] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[22Jan2025 01:19:34.205] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[22Jan2025 01:19:34.705] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[22Jan2025 01:19:35.205] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[22Jan2025 01:19:35.707] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[22Jan2025 01:19:36.281] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[22Jan2025 01:19:36.707] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[22Jan2025 01:19:37.208] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[22Jan2025 01:19:37.963] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 16259 ms
+[22Jan2025 01:19:37.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.186s)! For help, type "help"
+[22Jan2025 01:19:38.014] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Jan2025 01:21:04.667] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9cca50b
+[22Jan2025 01:21:04.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:49365] logged in with entity id 102 at (-4.5, 57.875, -529.5)
+[22Jan2025 01:21:04.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[22Jan2025 01:21:04.785] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[22Jan2025 01:21:21.382] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e5cd1a6
+[22Jan2025 01:21:21.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elcovid19[/127.84.251.109:56865] logged in with entity id 328 at (0.699999988079071, 58.0, -521.3000000119209)
+[22Jan2025 01:21:21.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 joined the game
+[22Jan2025 01:21:21.456] [Server thread/INFO] [Waila/]: Syncing config to Elcovid19 (7f5a0701-955c-3f51-900f-653f1209277c)
+[22Jan2025 01:21:44.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> que fue XD
+[22Jan2025 01:21:52.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> Elcovid19
+[22Jan2025 01:21:52.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> equis
+[22Jan2025 01:28:25.834] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48365a02
+[22Jan2025 01:28:25.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:42883] logged in with entity id 1089 at (391.69999998807907, 64.0, -655.3799376861492)
+[22Jan2025 01:28:25.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[22Jan2025 01:28:25.859] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
