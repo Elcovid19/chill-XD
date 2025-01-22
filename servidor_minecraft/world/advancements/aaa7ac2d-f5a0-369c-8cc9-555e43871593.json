@@ -17,9 +17,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_flower": "2025-01-22 19:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 18:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-22 19:18:39 +0000"
     },
     "done": true
   },
@@ -98,6 +110,12 @@
   "cfm:recipes/cfm/stone_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-21 18:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-22 19:18:39 +0000"
     },
     "done": true
   },
@@ -227,6 +245,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-21 18:02:02 +0000"
@@ -263,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-22 19:25:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2025-01-22 18:52:38 +0000"
@@ -287,6 +317,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 18:20:26 +0000"
@@ -299,6 +335,7 @@
       "cooked_mutton": "2025-01-21 18:24:45 +0000",
       "cooked_beef": "2025-01-22 18:53:57 +0000",
       "rotten_flesh": "2025-01-21 18:00:33 +0000",
+      "cooked_rabbit": "2025-01-22 19:20:54 +0000",
       "cooked_chicken": "2025-01-21 18:20:19 +0000"
     },
     "done": false
@@ -333,9 +370,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-21 18:09:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-01-22 19:21:36 +0000"
     },
     "done": true
   },
@@ -411,6 +460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-22 19:21:23 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-01-21 17:57:50 +0000"
@@ -480,6 +535,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-22 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
     },
     "done": true
   },
@@ -642,9 +703,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-01-21 18:19:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
     },
     "done": true
   },
@@ -814,6 +887,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-22 19:18:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2025-01-21 18:20:26 +0000"
@@ -874,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
@@ -898,9 +983,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-01-21 18:24:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
     },
     "done": true
   },
@@ -931,6 +1028,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 18:12:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-22 19:18:39 +0000"
     },
     "done": true
   },
@@ -1066,6 +1169,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-01-21 18:36:25 +0000"
@@ -1093,6 +1202,12 @@
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-01-21 18:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-22 19:21:23 +0000"
     },
     "done": true
   },
@@ -1168,6 +1283,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-01-21 18:14:42 +0000"
@@ -1186,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 18:20:26 +0000"
@@ -1201,6 +1328,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "coniferous_forest": "2025-01-21 18:01:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
     },
     "done": true
   },
@@ -1258,9 +1391,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
     },
     "done": true
   },
@@ -1324,6 +1469,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-01-21 18:02:05 +0000"
@@ -1355,6 +1512,7 @@
       "minecraft:stony_shore": "2025-01-21 18:39:57 +0000",
       "minecraft:jagged_peaks": "2025-01-21 18:20:04 +0000",
       "minecraft:cold_ocean": "2025-01-21 18:48:24 +0000",
+      "minecraft:flower_forest": "2025-01-22 19:28:54 +0000",
       "minecraft:meadow": "2025-01-21 18:51:22 +0000",
       "minecraft:plains": "2025-01-21 17:57:50 +0000"
     },
@@ -1450,6 +1608,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2025-01-21 18:20:26 +0000"
@@ -1507,6 +1677,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-21 18:36:03 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-22 19:18:39 +0000"
     },
     "done": true
   },
@@ -1666,9 +1842,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/fridge_light": {
     "criteria": {
       "has_iron": "2025-01-21 18:20:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-22 19:21:36 +0000"
     },
     "done": true
   },

@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-22 19:27:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-01-20 19:01:26 +0000"
@@ -914,6 +920,7 @@
       "minecraft:wither_skeleton": "2025-01-20 21:19:21 +0000",
       "minecraft:cave_spider": "2025-01-21 16:26:35 +0000",
       "minecraft:stray": "2025-01-20 21:08:38 +0000",
+      "minecraft:enderman": "2025-01-22 19:30:09 +0000",
       "minecraft:zombie": "2025-01-20 18:52:45 +0000",
       "minecraft:drowned": "2025-01-21 17:06:44 +0000"
     },
@@ -1390,6 +1397,12 @@
   "cfm:recipes/cfm/birch_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-20 19:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-22 19:27:05 +0000"
     },
     "done": true
   },
