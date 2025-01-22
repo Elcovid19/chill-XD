@@ -5,6 +5,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-22 21:06:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-22 21:05:55 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2025-01-22 19:03:45 +0000"
@@ -137,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-22 21:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-01-22 20:35:13 +0000"
@@ -164,6 +182,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 19:28:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-22 21:05:55 +0000"
     },
     "done": true
   },
@@ -444,6 +468,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-01-22 21:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-22 20:18:50 +0000"
@@ -483,6 +513,18 @@
   "cfm:recipes/cfm/stripped_birch_table": {
     "criteria": {
       "has_planks": "2025-01-22 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-22 21:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-01-22 21:09:29 +0000"
     },
     "done": true
   },
@@ -618,6 +660,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-22 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-22 21:09:29 +0000"
     },
     "done": true
   },
@@ -764,7 +812,8 @@
       "minecraft:skeleton": "2025-01-22 19:02:14 +0000",
       "minecraft:spider": "2025-01-22 19:23:20 +0000",
       "minecraft:creeper": "2025-01-22 20:19:54 +0000",
-      "minecraft:zombie": "2025-01-22 19:09:06 +0000"
+      "minecraft:zombie": "2025-01-22 19:09:06 +0000",
+      "minecraft:drowned": "2025-01-22 21:10:44 +0000"
     },
     "done": false
   },
@@ -783,6 +832,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-01-22 19:05:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-22 21:05:55 +0000"
     },
     "done": true
   },
@@ -1520,6 +1575,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-22 20:02:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-01-22 21:05:55 +0000"
     },
     "done": true
   },
