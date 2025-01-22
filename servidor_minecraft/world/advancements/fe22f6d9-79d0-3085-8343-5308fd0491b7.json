@@ -1111,6 +1111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-22 19:16:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-01-22 02:33:24 +0000"
@@ -1168,6 +1174,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-01-22 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-22 19:15:55 +0000"
     },
     "done": true
   },

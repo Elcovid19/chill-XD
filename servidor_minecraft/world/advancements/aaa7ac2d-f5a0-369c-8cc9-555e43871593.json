@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
-  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
@@ -690,12 +684,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
     "criteria": {
       "has_planks": "2025-01-22 18:52:38 +0000"
@@ -777,12 +765,6 @@
       "has_bed": "2025-01-21 18:19:23 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
@@ -915,12 +897,6 @@
       "has_porkchop": "2025-01-21 18:27:37 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
     "criteria": {
@@ -1089,12 +1065,6 @@
       "has_wool": "2025-01-21 18:12:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -1354,12 +1324,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-01-21 18:02:05 +0000"
@@ -1371,12 +1335,6 @@
       "has_cobblestone": "2025-01-21 18:09:27 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -1492,12 +1450,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2025-01-21 18:20:26 +0000"
@@ -1534,12 +1486,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2025-01-21 18:20:26 +0000"
@@ -1569,12 +1515,6 @@
       "has_white_wool": "2025-01-21 18:12:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 18:58:25 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
