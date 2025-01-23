@@ -162,3 +162,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [23Jan2025 02:31:23.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito joined the game
 [23Jan2025 02:31:23.415] [Server thread/INFO] [Waila/]: Syncing config to Mau_Mayito (3c93df30-50e8-3bf4-a846-5558dbbe37d9)
 [23Jan2025 02:31:34.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito suffocated in a wall
+[23Jan2025 02:41:49.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Zombie
+[23Jan2025 02:46:14.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 has made the advancement [Enchanter]
+[23Jan2025 02:57:20.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was blown up by Creeper
