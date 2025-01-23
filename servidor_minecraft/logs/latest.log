@@ -170,3 +170,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [23Jan2025 03:25:44.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:55971] logged in with entity id 11232 at (333.35241950626875, 99.0, -1359.9381177958016)
 [23Jan2025 03:25:44.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
 [23Jan2025 03:25:44.910] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
+[23Jan2025 03:37:08.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Creeper Cena'/10293, l='ServerLevel[world]', x=312.67, y=48.00, z=-1319.42] died: Creeper Cena was blown up by Creeper
