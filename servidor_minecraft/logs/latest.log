@@ -172,3 +172,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [23Jan2025 03:25:44.910] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
 [23Jan2025 03:37:08.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Creeper Cena'/10293, l='ServerLevel[world]', x=312.67, y=48.00, z=-1319.42] died: Creeper Cena was blown up by Creeper
 [23Jan2025 03:47:57.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito has made the advancement [Take Aim]
+[23Jan2025 03:59:32.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=65, z=-1027} BlockPos{x=294, y=63, z=-1027}
+[23Jan2025 03:59:32.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=293, y=63, z=-1028} BlockPos{x=294, y=63, z=-1027}
+[23Jan2025 03:59:32.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=293, y=63, z=-1028} BlockPos{x=294, y=63, z=-1027}
+[23Jan2025 03:59:32.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=293, y=63, z=-1028} BlockPos{x=294, y=63, z=-1027}
+[23Jan2025 04:01:20.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 has made the advancement [Who is Cutting Onions?]
+[23Jan2025 04:01:59.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> leon tienes pico de diamante?
+[23Jan2025 04:02:04.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> si
+[23Jan2025 04:02:10.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> go nether?
+[23Jan2025 04:02:24.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> pera, dejame recolectar eso
+[23Jan2025 04:04:59.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> leon presta tu pico de diamante para ir por obsidiona por mientras sino
+[23Jan2025 04:05:03.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> pero duerme primero
+[23Jan2025 04:05:08.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tengo 8
+[23Jan2025 04:05:19.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> falta 2no?
+[23Jan2025 04:05:35.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerme
